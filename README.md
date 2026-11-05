@@ -1,6 +1,6 @@
 ### Hi, I'm Shreya 👋
 
-I make messy research data and half-configured codebases usable — remotely, as a volunteer.
+I make messy research data and half-configured codebases usable 
 
 I'm a computer science student at Vishwakarma University, Pune, and I like the unglamorous
 part of research software: the cleaning, the setup, the "it works on my machine" fixes.
