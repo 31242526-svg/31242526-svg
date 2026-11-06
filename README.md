@@ -21,6 +21,7 @@ part of research software: the cleaning, the setup, the "it works on my machine"
 | [python-data-cleaning-kit](https://github.com/31242526-svg/python-data-cleaning-kit) | dirty CSV → clean data + validation report |
 | [text-preprocessing-pipeline](https://github.com/31242526-svg/text-preprocessing-pipeline) | reproducible NLP cleaning with an explicit config |
 | [research-repo-scaffold](https://github.com/31242526-svg/research-repo-scaffold) | the setup work that makes a repo survive |
+| [research-data-dictionary](https://github.com/31242526-svg/research-data-dictionary) | any CSV → a data dictionary you can cite |
 
 **How I work**
 
