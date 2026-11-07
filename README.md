@@ -29,5 +29,7 @@ part of research software: the cleaning, the setup, the "it works on my machine"
 2. Keep each change small and explain it in the pull request.
 3. Hand back a README section your methods section can cite.
 
+One-page version: **https://31242526-svg.github.io**
+
 Currently: B.Tech CSE, Vishwakarma University, Pune.
 Open to remote volunteer work with research groups — 31242526@vupune.ac.in
