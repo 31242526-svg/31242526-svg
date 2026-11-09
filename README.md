@@ -18,6 +18,7 @@ part of research software: the cleaning, the setup, the "it works on my machine"
 
 | Repository | What it demonstrates |
 | --- | --- |
+| [survey-cleaning-case-study](https://github.com/31242526-svg/survey-cleaning-case-study) | a real 647-response Qualtrics export → documented, reproducible analysis file |
 | [python-data-cleaning-kit](https://github.com/31242526-svg/python-data-cleaning-kit) | dirty CSV → clean data + validation report |
 | [text-preprocessing-pipeline](https://github.com/31242526-svg/text-preprocessing-pipeline) | reproducible NLP cleaning with an explicit config |
 | [research-repo-scaffold](https://github.com/31242526-svg/research-repo-scaffold) | the setup work that makes a repo survive |
